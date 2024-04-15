@@ -11,7 +11,7 @@ I am a full-stack software developer, although primarily focused on the frontend
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Typescript, Angular, React, Java, SpringBoot, Python, C, TailwindCSS, Material, Bootstrap, PHP, Mysql
+Javascript, HTML, CSS, Typescript, Angular, React, React Native, Java, SpringBoot, Python, C, TailwindCSS, Material, Bootstrap, PHP, Mysql, Vue, Nuxt.
 
 
 ## Other About
