@@ -17,7 +17,7 @@ Javascript, HTML, CSS, Typescript, Angular, React, React Native, Java, SpringBoo
 ## Other About
 👩‍💻 I'm currently working for Hyntelo SRL
 
-🧠 I'm currently improving my web full stacks skills
+🧠 I'm currently improving my web full stack skills
 
 📫 How to reach me: nicolacalise3355@gmail.com
 
