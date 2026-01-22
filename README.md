@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I am a full-stack software developer and software engineer mainly in fintech environment. I hold a bachelor's degree in computer science and have been passionate about software engineering since high school.
-
+Hit me if you wanna see some private projects!
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-calise-12a638197/)
