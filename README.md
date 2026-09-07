@@ -15,7 +15,7 @@ Javascript, HTML, CSS, Typescript, Angular, React, React Native, Java, SpringBoo
 
 
 ## Other About
-👩‍💻 I'm currently working for HCLtech Limited and Avaloq in Lugano
+👩‍💻 I'm currently working for Blockstream in Lugano
 
 📫 How to reach me: nicolacalise3355@gmail.com
 
